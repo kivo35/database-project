@@ -1,3 +1,3 @@
 # Database Project
-### WAMP database
+### Work with MAMP database
 
